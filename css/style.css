@@ -1,0 +1,28 @@
+.headings {
+    text-align: center;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    border-style: dotted;
+}
+
+td {
+    background-color: #69f7f7;
+}
+th {
+    background-color: #ddf505;
+}
+
+th, td {
+    padding-top: 10px;
+  padding-bottom: 20px;
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
