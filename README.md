@@ -1,5 +1,5 @@
 # Fetching-from-API-Typescript
-##Create a web application that fetches data from a public API and displays it in a table using TypeScript
+## Create a web application that fetches data from a public API and displays it in a table using TypeScript
 ------------------------------------------------------------------------------------------------------------
 
 Sequence wise objective
